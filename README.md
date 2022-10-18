@@ -4,6 +4,7 @@
    <a href="https://github.com/Alessandra-Firmiano">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alessandra-Firmiano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandra-Firmiano&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="right" src="https://discord.com/channels/766480712198127626/1023992091883348088/1032066821492318328" alt="alessandra">
 
 </div>
 <div style="display: inline_block"><br>
